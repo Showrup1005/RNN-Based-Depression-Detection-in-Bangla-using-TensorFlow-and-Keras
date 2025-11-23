@@ -1,0 +1,12 @@
+gdown
+pandas
+numpy
+unidecode
+requests
+tensorflow
+seaborn
+matplotlib
+scikit-learn
+bangla-stemmer
+nltk
+
